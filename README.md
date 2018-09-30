@@ -1,3 +1,3 @@
 # primera-web
 
-[web](https://marquimedes.github.io/primera-web/index.html)
+[web](https://marquimedes.github.io/primeraweb/index.html)
