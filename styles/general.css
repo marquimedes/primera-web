@@ -1,0 +1,43 @@
+/*CONTINGUT COMPARTIT*/
+body{
+	font-family: arial;
+	margin: 0px;/*margin va*/
+}
+header{
+	background: #999;
+	padding: 5px 15px 0 5px;
+}
+header h1{/*margin va*/
+	margin: 0px 20px 0 0;
+	display: inline;
+}
+nav ul{
+	margin: 0px;/*margin va*/
+	display: inline;
+	padding: 8px 0 5px 10%;
+	background: #19484d;
+}
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	background: #666;
+	padding: 5px 15px;
+	
+}
+a{
+	color: #19484d;
+	text-decoration: none;/*treu el subrallat*/
+}
+footer{
+	margin: 70% 0 5px 80%;
+}
+/*INDEX*/
+div{
+	margin: 20px 0 10px 0;
+}
+/*CONTACTE*/
+/*METEO + NATURA*/
+img{
+	background: #777;
+	padding: 20px;
+}
